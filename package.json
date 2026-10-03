@@ -1,0 +1,12 @@
+{
+  "name": "gorod-v-5-mirah",
+  "private": true,
+  "description": "Форсайт-игра «Город в 5 мирах»: GitHub Pages + Google Apps Script",
+  "scripts": {
+    "mock": "node test/mock-server.js",
+    "test": "node test/e2e.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.55.0"
+  }
+}
